@@ -10,15 +10,18 @@
   },
   "dependencies": {
     "@prisma/client": "^5.3.1",
+    "@prisma/extension-accelerate": "^2.0.2",
     "autoprefixer": "^10.4.21",
     "classnames": "^2.3.2",
     "next": "15.5.0",
     "postcss": "^8.5.6",
     "prisma": "^5.3.1",
+    "prisma-client": "^0.0.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-icons": "^4.11.0",
-    "tailwindcss": "^4.1.12"
+    "tailwindcss": "^4.1.12",
+    "zod": "^3.22.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
